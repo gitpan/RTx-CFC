@@ -1,0 +1,29 @@
+NAME
+    Pea?rl icons - This is a test
+
+SYNOPSIS
+DESCRIPTION
+    In the beginning ActiveState neglected to include an icon in their port
+    of PERL. I sent them sample icons ( wpearl formerly pearl1, gpearl
+    formerly pearl2, and ipearl formerly pearl3; bpearl was added later).
+    Whether they heeded my letter or someone else's ActiveState finally
+    began including an icon in build 5xy. However it is a rather
+    unattractive one. A yellow pearl to me would denote poor quality. Thusly
+    I make my icons available to you in share/; my personal favorite being
+    ipearl. Smaakelijk!
+
+AUTHOR
+    Jerrad Pierce <jpierce@cpan.org>
+
+AUTHOR
+    http://mattkruse.com/perl/
+
+LICENSE
+    * Thou shalt not claim ownership of unmodified materials.
+    * Thou shalt not claim whole ownership of modified materials.
+    * Thou shalt grant the indemnity of the provider of materials.
+    * Thou shalt use and dispense freely without other restrictions.
+        Except Admin/Users/from.html which is derived from GPL work by Best
+        Practical. But really, you can consider the above to be "the same
+        terms as perl itself."
+
